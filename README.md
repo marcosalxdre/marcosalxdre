@@ -12,7 +12,7 @@ Meu direcionamento técnico está concentrado principalmente em Segurança Defen
 * Inteligência de Ameaças
 * Análise de Malware
 
-O que você vai encontrar por aqui? 📁
+## O que você vai encontrar por aqui? 
 
 O objetivo deste repositório é registrar estudos práticos, laboratórios, pesquisas e projetos realizados por mim, servindo como um histórico da minha evolução técnica e profissional, além de compartilhar os conhecimentos adquiridos ao longo desse processo.
 
